@@ -1,0 +1,19 @@
+ form {
+     align-content: "center";
+     column-span: 2;
+     colspan: 2;
+     text-align: center;
+ }
+ 
+ body {
+     background-image: url(images/15.jpg);
+ }
+ 
+ h2 {
+     color: #000;
+     font-family: "Georgia, Times New Roman, Times, serif";
+ }
+ 
+ panel {
+     padding-top: 150px;
+ }
