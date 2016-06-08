@@ -13,6 +13,7 @@ header ("Location: login.php");
        <title> Home </title>
        <link rel="stylesheet" href="dist/css/bootstrap.css" type="text/css">
        <link rel="stylesheet" href="dist/css/bootstrap-theme.css" type="text/css">
+       <link rel="stylesheet" href="homepage.css" type="text/css">
   </head>
   <body>
       <nav class="navbar navbar-default">

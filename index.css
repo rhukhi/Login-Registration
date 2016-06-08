@@ -1,9 +1,5 @@
 body {
-    background-image: url (images/25.jpg);
-}
-
-* {
-    background-image: url (images/25.jpg);
+    background: #B5B5B5;
 }
 
 h1 {
